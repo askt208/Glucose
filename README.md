@@ -11,7 +11,7 @@ Purpose: to investigate the glucose level of a subject.
 3. Imputing: linear interpolation
 4. Smoothing: moving windows
 5. Statistical analysis: moving windows, find peaks
-6. Visualization: line chatrs, interactive 
+6. Visualization: line chatrs, interactive bokeh plot
 
 ## Verion
 Python 3.11.5
