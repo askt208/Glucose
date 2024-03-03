@@ -2,14 +2,16 @@
 Glucose assignment for Programming III
 
 # Liver cancer death and alocohol consumption
-This repository contains the analysis of the liver cancer death and alocohol consumption datasets.
-Purpose: to investigate the glucose level of a case.
+This repository contains the analysis of the contibuous glucose level consumption datasets.
+Purpose: to investigate the glucose level of a subject.
 
 # Methodology
-1. Data preparation: clean and process the data for analysis
-2. Data Explorattion: data distributions and acossiation of different variables
-3. Statistical analysis: Kruskal-Wallis and ANOVA tests to find out how the factors influence liver cancer death
-4. Visualization: use hitogram, line chart, scatter plot, violin plot, and map to show the features of the data and some results of the analysis
+1. Data inspection: clean and process the data for analysis
+2. Data and visual explorattion: data distributions and acossiation of different variables
+3. Imputing: linear interpolation
+4. Smoothing: moving windows
+5. Statistical analysis: moving windows, find peaks
+6. Visualization: line chatrs, interactive 
 
 ## Verion
 Python 3.11.5
