@@ -40,11 +40,12 @@ Description of each data file
 
     
 # Conclusion
-1. H
-2. w
-3. 3
+1. The glucose level reached the highest level at 00:00, and reached lowest level between 6am and 12pm. The subject may have the risk of extreme hypoglycemia in the morning.
+2. The glucose level reached the lowest peak between 7am to 9am, and reached highest peak between 10pm and 11pm.
+3. The pattern of glucose levels does not look different.
 4. 3
 5. 5
+6. 
 
 # Files
 1. glucose_assignment.ipynb
