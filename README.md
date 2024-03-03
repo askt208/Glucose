@@ -40,9 +40,11 @@ Description of each data file
 
     
 # Conclusion
-Liver cancer death shows a weak correlation with alcohol consumption, but there is a stronger association between alcohol consumption and region. 
-Significant differences in liver cancer death across different alcohol consumption levels and regions. 
-Both factors of alcohol consumption level and region show statistically significantly effects on liver cancer death.
+1. H
+2. w
+3. 3
+4. 3
+5. 5
 
 # Files
 1. glucose_assignment.ipynb
