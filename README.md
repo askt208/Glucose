@@ -1,7 +1,7 @@
 # Glucose 
 Glucose assignment for Programming III
 
-# Liver cancer death and alocohol consumption
+# Continuous glucose records
 This repository contains the analysis of the contibuous continuous glucose datasets.
 Purpose: to investigate the glucose level of a subject.
 
